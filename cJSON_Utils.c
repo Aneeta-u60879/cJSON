@@ -1479,3 +1479,5 @@ CJSON_PUBLIC(cJSON *) cJSONUtils_GenerateMergePatchCaseSensitive(cJSON * const f
 {
     return generate_merge_patch(from, to, true);
 }
+
+//test
